@@ -71,3 +71,4 @@ class BlackJack():
 
 if __name__ == '__main__':
      test = BlackJack()
+     print('hello world')
